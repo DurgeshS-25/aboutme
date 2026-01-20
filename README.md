@@ -1,2 +1,3 @@
 # Durgesh Sakhardande
-### current project: placeholder
+## current project: placeholder
+## Notable projects
