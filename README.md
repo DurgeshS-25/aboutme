@@ -1,6 +1,6 @@
 # Durgesh Sakhardande
 ## About me :
-## current project: placeholder
+## current project: [PantrytoPlate](http://github.com/DurgeshS-25/PantryToPlate)
 ## Notable projects
 * [AI Fitness Tracker](https://github.com/DurgeshS-25/AIFitnessTracker)
 * [Urban Traffic Collision](https://github.com/DurgeshS-25/Urban-Traffic-Collision-Pipeline)
